@@ -1,4 +1,4 @@
-## WooCommerce POS Email Invoice Gateway
+## WooCommerce POS Web Checkout Gateway
 
 ### Instructions
 
